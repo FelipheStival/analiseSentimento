@@ -1,0 +1,2 @@
+# analiseSentimento
+APS-QuintoPeriodo

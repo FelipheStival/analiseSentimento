@@ -19,10 +19,12 @@ Antes de começar, você precisa ter instalado em sua máquina as seguintes ferr
 <!--te-->
 
 ### 1. R
-Caso você não tenha o R instalado, você pode obter o mesmo pelo seguinte link: https://www.r-project.org/ <br>
+Caso você não tenha o R instalado, você pode obter o mesmo pelo seguinte link: <br>
+https://www.r-project.org/ 
 
 ### 2. RStudio 
-Depois de instalar o R, você deve instalar o RStudio para executar o código, o RStudio pode ser encontrado no seguinte link: https://www.rstudio.com/products/rstudio/download/
+Depois de instalar o R, você deve instalar o RStudio para executar o código, o RStudio pode ser encontrado no seguinte link: <br>
+https://www.rstudio.com/products/rstudio/download/ 
 
 # Instalação
 

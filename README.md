@@ -7,7 +7,7 @@ Aplicativo para análise de sentimentos utilizando Machine Learning (NLP)
    1. [Sumário](#Sumário)
    2. [Pré-requisitos](#Pré-requisitos)
    3. [Instalação](#Instalação)
-   4. [Execução e objetivo][#Execução]
+   4. [Execução e objetivo](#Execução)
 <!--te-->
 
 # Pré-requisitos
